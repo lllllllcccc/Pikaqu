@@ -1,0 +1,13 @@
+12
+31D:\jirengu\Pikaqu-1\src\main.js133074487305807121 0
+24D:\jirengu\Pikaqu-1\dist133074488264075798 1
+23D:\jirengu\Pikaqu-1\src133074317797862972 1
+34D:\jirengu\Pikaqu-1\src\index.html133074488263220878 0
+33D:\jirengu\Pikaqu-1\src\style.css133071765100145701 0
+33D:\jirengu\Pikaqu-1\src\test.html133074490282369661 0
+43D:\jirengu\Pikaqu-1\dist\index.2cdaf7bc.css133074298955398627 0
+31D:\jirengu\Pikaqu-1\src\test.js133074489692626304 0
+47D:\jirengu\Pikaqu-1\dist\index.2cdaf7bc.css.map133074298955461697 0
+42D:\jirengu\Pikaqu-1\dist\index.de158e3a.js133074487306658308 0
+46D:\jirengu\Pikaqu-1\dist\index.de158e3a.js.map133074487306678248 0
+35D:\jirengu\Pikaqu-1\dist\index.html133074488264065822 0
